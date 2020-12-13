@@ -1,0 +1,163 @@
+@font-face{
+	font-family:mont;
+	src:url(../fonts/MontserratAlternates-Bold.otf)
+}
+@font-face{
+	font-family:montb;
+	src:url(../fonts/Montserrat-Bold.otf)
+}
+.nn{
+	padding-top:30px!important;
+	padding-bottom:30px!important;
+	background-color:white!important;
+}
+.sec1{
+	background-color: black;
+	color:white;
+	padding:250px 0;
+}
+.sec1 h4{
+	text-align: center !important;
+	font-family:mont;
+}
+.sec1 h1{
+	text-align: center;
+	font-family:montb;
+	font-size:40px;
+	margin: 10px auto;
+}
+.sec1 a{
+	text-decoration: none;
+	color:white;
+	border-style:solid;
+	border-color:white;
+	border-width: 2px  2px;
+	font-family:montb;
+	padding: 9px 30px;
+	border-radius: 4px;
+}
+.sec1 a:hover{
+	background-color: #00c7fc;
+}
+.sec2 h2{
+	text-align: center;
+	font-family:montb;
+	padding-top:120px;
+}
+.sec2 img{
+	
+}
+.tt{
+	text-align: center;
+	line-height: 23px;
+	color:#6d818f;
+	padding-bottom:120px;
+}
+.sec3{
+	background-color: #f4f4f4;
+}
+.news{
+	padding: 65px 20px;
+	box-shadow: 0 0 5px #999;
+	margin: 0 auto;
+	background-color: white;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.news p{
+		color:#6d818f;
+}
+.news:hover{
+	background-color: #ff3946;
+}
+.line1{
+	padding-left: 120px;
+}
+.news h4{
+	text-align: center;
+}
+.line2{
+	padding-left: 120px;
+}
+.line2{
+	padding-left: 129px;
+}
+.line3{
+	padding-left: 125px;
+}
+.mp h2{
+	padding-top:100px;
+	font-family:montb;
+}
+.mp p{
+	line-height: 23px;
+	color:#6d818f;
+}
+.s3bottom{
+	padding-top:62px;
+	padding-bottom: 100px;;
+}
+.sec5{
+	color:white;
+	background:black;
+}
+.sec5div{
+	display:flex;
+	padding-top:100px;
+	padding-left:100px;
+}
+.sec5div h2{
+	font-family:montb;
+	text-align: center;
+}
+.about {
+	padding: 65px 20px;
+	box-shadow: 0 0 5px white;
+	margin: 0 auto;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	line-height: 23px;
+}
+.about p{
+	text-align: center;
+}
+.input{
+	padding: 40px 10px;
+	box-shadow: 0 0 5px white;
+	margin: 0 auto;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.sec5 input{
+	border:none;
+	border-bottom: 2px solid white;
+	outline: none;
+	color:white;
+	font-weight: bold;
+	margin: 0 20px;
+}
+.sec5 input , textarea{
+	background-color:  black;
+}
+.input a{
+	text-decoration: none;
+	color:#00c7fc;
+	font-weight:bold;
+	margin-left:357px;
+}
+.foot{
+	background-color:#00c7fc;
+}
+.foots{
+	padding-top:2rem;
+	padding-bottom:1rem;
+}
+.foots p{
+	color: white;
+	text-align:center;
+}
+.foots i{
+	color: white;
+	font-size: 25px;
+	padding:10px 20px;
+}
